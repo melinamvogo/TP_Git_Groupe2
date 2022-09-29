@@ -5,9 +5,8 @@ public class Script3 {
 
         Cours cours1 = new Cours();
         Cours cours2 = new Cours();
-        System.out.println("essai");
 
-        cours1.drop();
+        cours1.critique();
 
         cours1.nom = "Versionning Git";
         cours2.nom = "Hébergement Web";
