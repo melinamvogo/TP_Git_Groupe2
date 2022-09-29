@@ -13,3 +13,10 @@
   
   Le workflow utilisé est feature branch pour permettre à chacun d'avancer librement en parallèle sr sa branche.
 
+SCRIPT-2
+
+Script-nombres-premieres: Pour lancer le scrpit vous devez suivre les etapes suivante:
+
+Etape 1: Rentre le commande "chmod +x script_nombres.sh"
+
+Etape 2: Tappez la commande "./script_nombres.sh"
