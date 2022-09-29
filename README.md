@@ -12,6 +12,11 @@ Etape 1: Rentre le commande "chmod +x script_nombres.sh"
 
 Etape 2: Tappez la commande "./script_nombres.sh"
 
+SCRIPT 2
+
+POUR acceder au projet se trouvant sur la branche "script2" , Tout d’abord, vous allez récupérer le lien du dépôt distant sur GitHub 
+et faire un "git clone liendudepotdistant" pour récupérer le contenu du projet.
+
 
 SCRIPT 3
 
